@@ -1,0 +1,19 @@
+
+
+body{
+	
+	background:url(fond4.jpg);
+	background-size: cover;
+	}
+h1{
+	text-align: center;
+	color: red
+
+}
+
+button{
+        text-align: center;
+	    color: green
+
+
+}
